@@ -27,7 +27,7 @@ print("Hello from lesson 2")
 # make varible password 
 # set password to 'a password'
 # ask "what is the password"
-# if answer = a password
+# if answer = 'a password'
 #     print "congrats you got the password"
 # else 
 #     print "wrong try again"
