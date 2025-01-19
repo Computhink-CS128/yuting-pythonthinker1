@@ -16,4 +16,10 @@ print("Hello from lesson 2")
 #    4. turn 15 degrees
 #    5. chage "counter" by 10
 
-
+# go through the recyling bin one by one,until there is nothing left.
+#      if item = glass 
+#          put in glass bin
+#      if item = plastic 
+#          put in plastic bin
+#      if item = paper  
+#          put in paper bin
