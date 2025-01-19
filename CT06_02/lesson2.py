@@ -22,4 +22,4 @@ print("Hello from lesson 2")
 #      if item = plastic 
 #          put in plastic bin
 #      if item = paper  
-#          put in paper bin
+#          put in paper bin 
