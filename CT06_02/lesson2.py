@@ -16,4 +16,4 @@ print("Hello from lesson 2")
 #    4. turn 15 degrees
 #    5. chage "counter" by 10
 
-if 
+
