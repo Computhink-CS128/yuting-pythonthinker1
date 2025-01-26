@@ -1,2 +1,2 @@
 print("Hello from lesson 3")
-print("someone wa")
+print("someone was here :3")
